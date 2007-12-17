@@ -14,7 +14,6 @@ Source1: bpowerd
 Source2: power
 Source3: INSTALL
 Requires: SysVinit >= 2.64, initscripts, chkconfig
-BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 A program that monitors Best Patriot UPS systems for power outages
