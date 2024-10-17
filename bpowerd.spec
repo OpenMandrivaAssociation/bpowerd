@@ -7,7 +7,7 @@ Name: %{name}
 Version: %{version}
 Release: %{release}
 License: GPL
-URL: http://www.ccraig.org/bpowerd/ 
+URL: https://www.ccraig.org/bpowerd/ 
 Group: Monitoring
 Source: %name-%version.tar.bz2
 Source1: bpowerd
