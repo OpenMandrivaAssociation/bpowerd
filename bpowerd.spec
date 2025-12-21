@@ -16,6 +16,7 @@ Source3: INSTALL
 Requires: SysVinit >= 2.64, initscripts, chkconfig
 BuildRoot: %{_tmppath}/%{name}-buildroot
 
+BuildRequires:	make
 %description
 A program that monitors Best Patriot UPS systems for power outages
 and alarms and calls init when they occur.  Allows for the automated
