@@ -1,6 +1,6 @@
 %define name bpowerd
 %define version 3.0b1
-%define release %mkrel 10
+%define release 11
 
 Summary: Power Control Program for Best Patriot UPS
 Name: %{name}
